@@ -1,0 +1,5 @@
+streamlit
+altair
+transformers>=5.0
+torch
+pandas
